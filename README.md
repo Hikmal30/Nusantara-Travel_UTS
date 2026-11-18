@@ -7,7 +7,7 @@ Sistem informasi perusahaan Travel & Tour untuk menjelajahi destinasi dan paket 
 - PHP Native 8.1+, PDO, dan session
 - MySQL 8+ / MariaDB
 - HTML5, CSS3, Bootstrap 5, JavaScript
-- Postman atau Bruno untuk pengujian API
+- Bruno untuk pengujian API
 
 ## Fitur
 
@@ -37,7 +37,7 @@ Nusantara Travel_UTS/
 
 Database terdiri dari `users`, `destinations`, dan `packages`. Setiap paket terhubung ke destinasi melalui `packages.destination_id` → `destinations.id`.
 
-## Instalasi lokal dengan XAMPP atau Laragon
+## Instalasi lokal dengan Laragon
 
 1. Salin repository ke folder web server, misalnya `C:\xampp\htdocs\NusantaraTrip` atau `C:\laragon\www\Nusantara Travel_UTS`.
 2. Jalankan Apache dan MySQL.
@@ -81,4 +81,8 @@ Respons menggunakan bentuk konsisten `success`, `message`, dan `data`. Uji setia
 
 ## Identitas pengembang
 
-24552011129_HIKMAL FIRMANSYAH
+UJIAN TENGAH SEMESTER
+NAMA: HIKMAL FIRMANSYAH
+KELAS: TIF RP 24 E CNS
+NIM: 24552011129
+MATA KULIAH: PEMROGRAMAN WEB 1
